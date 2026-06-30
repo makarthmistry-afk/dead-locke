@@ -1,0 +1,16 @@
+.app {
+  width: 100%;
+  min-height: 100vh;
+  background: #0f0f0f;
+  color: #ffffff;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-out;
+}

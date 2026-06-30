@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+yarn.lock
+.env
+.env.local
+build/
+dist/
+.DS_Store
+logs/
+*.log
